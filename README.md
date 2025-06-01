@@ -30,7 +30,7 @@ ollama serve
 # Terminal 2: Start LangGraph frontend
 python frontend.py
 # Access the UI at: http://localhost:8011/
-# You can also access [here](http://172.208.114.221:8011/)
+# You can also access http://172.208.114.221:8011/
 
 # Terminal 3 (Optional): Start LangGraph Studio UI (for visualization)
 langgraph dev
